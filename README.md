@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Miompolly
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning HTML$CSS||FIGMA||PHP||JAVA||JAVASCRIPT
