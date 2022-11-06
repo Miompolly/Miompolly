@@ -5,6 +5,7 @@
 
 ![goma-cat](https://user-images.githubusercontent.com/104558335/200171067-5a00118e-93ea-441c-a691-39c2834f6fe6.gif)
 
+<===========MY TEAM ===============>![skeleton-typing](https://user-images.githubusercontent.com/104558335/200171154-300a8d57-d708-4f6b-9ade-f94cc935eab6.gif)
 
 
 ![port](https://user-images.githubusercontent.com/104558335/200170701-226a5af3-890b-4608-85fb-760f63d39777.png)
