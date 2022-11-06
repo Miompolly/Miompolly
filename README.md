@@ -3,7 +3,8 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning HTML$CSS||FIGMA||PHP||JAVA||JAVASCRIPT
 
-![goma-cat](https://user-images.githubusercontent.com/104558335/200171067-5a00118e-93ea-441c-a691-39c2834f6fe6.gif)<=======================MY TEAM ======================>![piske-usagi](https://user-images.githubusercontent.com/104558335/200171267-e78d8464-01eb-4d55-a2ba-eed705d5d6a4.gif)
+![goma-cat](https://user-images.githubusercontent.com/104558335/200171067-5a00118e-93ea-441c-a691-39c2834f6fe6.gif)<=================== ![Uploading wifi-router-router.gif…]() =================>![piske-usagi](https://user-images.githubusercontent.com/104558335/200171267-e78d8464-01eb-4d55-a2ba-eed705d5d6a4.gif)
+![image](https://user-images.githubusercontent.com/104558335/200171500-dd3fd695-84ed-48f7-a09e-e261ba3a82dd.png)
 
 
 
