@@ -1,6 +1,7 @@
 
 - 👋 Hi, I’m @Miompolly
-![logo](https://user-images.githubusercontent.com/104558335/213317990-2dc6a456-08c1-4e68-b536-b4ef01adf6d1.png)
+![20230112_131618_2](https://user-images.githubusercontent.com/104558335/213318953-b373af5f-b585-46e3-b384-fb057982dc95.png)
+
 
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning HTML$CSS||FIGMA||PHP||JAVA||JAVASCRIPT
