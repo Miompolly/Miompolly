@@ -1,6 +1,7 @@
 
 - 👋 Hi, I’m @Miompolly
-![20230112_131618_2](https://user-images.githubusercontent.com/104558335/213318953-b373af5f-b585-46e3-b384-fb057982dc95.png)
+![Screenshot_20230112-211212](https://user-images.githubusercontent.com/104558335/213319431-2bb04dc3-7369-418b-a692-172582ad656d.png)
+
 
 
 - 👀 I’m interested in Software Engineering
