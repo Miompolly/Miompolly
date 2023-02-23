@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @Miompolly
-![20230112_131618_2](https://user-images.githubusercontent.com/104558335/213319771-268d8abf-34e9-44e2-9c21-da22c0c6c639.png)
+
 
 
 
